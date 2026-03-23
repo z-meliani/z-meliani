@@ -4,7 +4,7 @@
 🎓 MSc in Hydrology and Hydrogeology  
 
 # 🚀 Interests
-- 💧 Water sciences & hydrology  
+- 💧 Water sciences
 - 🛠️ Data engineering & analysis  
 - ⚙️ DevOps & automation  
 - 🔌 Arduino & microcontroller programming  
