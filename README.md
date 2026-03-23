@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm a student at 42 Paris
 
-<!--
-**z-meliani/z-meliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Hydrology and Hydrogeology  
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- 💧 Water sciences  
+- 🛠️ Data engineering  
+- ⚙️ DevOps  
+- 🔌 Arduino and microcontroller programming  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About me
+I enjoy working at the intersection of environmental science and technology,  
+from hydrological systems to data pipelines and embedded projects.
