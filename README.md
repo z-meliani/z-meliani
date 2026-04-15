@@ -1,15 +1,15 @@
 # 👋 Hi there!
 
-🤓 Student at 42 Paris  
-🎓 MSc in Hydrology and Hydrogeology  
+🤓 Student at 42 Paris
+🎓 MSc in Hydrology and Hydrogeology
 
 ---
 
 ## 🚀 Interests
-- 💧 Water science  
-- 🛠️ Data engineering  
-- ⚙️ DevOps & automation  
-- 🔌 Bare-metal programming  
+- 💧 Water sciences
+- 🛠️ Data engineering
+- ⚙️ DevOps
+- 🔌 Bare-metal programming
 
 ---
 
@@ -30,4 +30,4 @@
 ---
 
 ## 📌 About me
-I enjoy working at the intersection of 🌍 environmental science and 💻 technology, from hydrological systems to data pipelines and embedded systems.
+I enjoy working on data processing applied to water resource management, spanning environmental data analysis, modelling, and automation.
