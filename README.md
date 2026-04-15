@@ -4,7 +4,6 @@
 
 🎓 MSc in Hydrology and Hydrogeology
 
----
 
 ## 🚀 Interests
 - 💧 Water sciences
@@ -12,7 +11,6 @@
 - ⚙️ DevOps
 - 🔌 Bare-metal programming
 
----
 
 ## 💻 Tech Stack
 
@@ -28,7 +26,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
 
----
 
 ## 📌 About me
 I enjoy working on data processing applied to water resource management, spanning environmental data analysis, modelling, and automation.
