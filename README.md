@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
 🤓 Student at 42 Paris
+
 🎓 MSc in Hydrology and Hydrogeology
 
 ---
